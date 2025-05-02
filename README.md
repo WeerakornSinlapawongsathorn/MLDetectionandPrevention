@@ -93,13 +93,21 @@ Due to an increase of data or internet utilization, traditional IDS/IPS encounte
 
 # REFERENCES
 [1] F. Zhao, H. Li, K. Niu, J. Shi, and R. Song, “Application of deep learning-based intrusion detection system (IDS) in network anomaly traffic detection,” Applied and Computational Engineering 86: 231-237, 2024, doi: 10.54254/2755-2721/86/20241604
+
 [2] S. Omar, A. Ngadi, and H. H. Jebur, “Machine Learning Techniques for Anomaly Detection: An Overview,” International Journal of Computer Applications, vol. 79 no. 2, October 2013.
+
 [3] H. Liu, and B. Lang, “Machine Learning and Deep Learning Methods for Intrusion Detection Systems: A Survey,” applied sciences, vol. 9, no. 20, October 2019, doi: 10.3390/app9204396
+
 [4] S. Das and M. J. Nene, "A survey on types of machine learning techniques in intrusion prevention systems," 2017 International Conference on Wireless Communications, Signal Processing and Networking (WiSPNET), Chennai, India, 2017, pp. 2296-2299, doi: 10.1109/WiSPNET.2017.8300169.
+
 [5] J. A. Abraham and V. R. Bindu, "Intrusion Detection and Prevention in Networks Using Machine Learning and Deep Learning Approaches: A Review," 2021 International Conference on Advancements in Electrical, Electronics, Communication, Computing and Automation (ICAECA), Coimbatore, India, 2021, pp. 1-4, doi: 10.1109/ICAECA52838.2021.9675595.
+
 [6] V. Praneeth, K.R. Kumar, and N. Karyemsetty, “Security: intrusion prevention system using deep learning on the internet of vehicles,” International Journal of Safety and Security Engineering, vol. 11, no. 3, June 2021, pp. 231 – 237, doi: 10.18280/ijsse.110303
+
 [7] M. R. Islam, M. Nasiruddin, M. Karmakar, R. Akter, M. T. Khan, A. A. Sayeed, and A. Amin, "Leveraging advanced machine learning algorithms for enhanced cyberattack detection on US business networks," J. Bus. Manag. Stud., vol. 6, no. 5, pp. 213–224, 2024.
+
 [8] M. Gopalsamy, "Predictive cyber attack detection in cloud environments with machine learning from the CICIDS 2018 dataset," Int. J. Sci. Res. Technol. (IJSART), vol. 10, no. 10, 2024.
+
 [9] E. Berei, M. A. Khan and A. Oun, "Machine Learning Algorithms for DoS and DDoS Cyberattacks Detection in Real-Time Environment," 2024 IEEE 21st Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 2024, pp. 1048-1049, doi: 10.1109/CCNC51664.2024.10454755.
 
 
